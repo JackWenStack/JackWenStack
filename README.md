@@ -1,24 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,50:7C3AED,100:06B6D4&height=220&section=header&text=Jack%20Wen&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:9333EA&height=220&section=header&text=Jack%20Wen&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%2F%20Vue%20%2F%20Redis%20%2F%20MySQL&descAlignY=58&descSize=17" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%2F+Vue+%2F+Redis+%2F+MySQL;Building+things+with+code;Keep+building%2C+keep+learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=60A5FA&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Jack+Wen;Full+Stack+Developer;Java+%2F+Spring+Boot+%2F+Vue;Redis+%2F+MySQL+%2F+Docker;Building+Clean+and+Reliable+Software" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Jack%20Wen-Full%20Stack%20Developer-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-Vue-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redis-MySQL-F97316?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=JackWenStack&label=Profile%20Views&color=2563EB&style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Code-Java%20%7C%20Vue%20%7C%20Redis-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Build-Clean%20Software-0EA5E9?style=flat-square" />
 
 </div>
 
 ---
 
-## 👾 About Me
+## 👨‍💻 About Me
 
-Full Stack Developer focused on building clean, reliable and useful software.
+<table>
+<tr>
+<td>
 
-I care about backend architecture, frontend interaction, system performance and real product experience.
+Full Stack Developer focused on backend architecture, frontend experience and clean engineering.
+
+I enjoy turning complex business logic into clear, reliable and maintainable systems.  
+For me, code is not only about implementing features, but also about solving real problems and creating long-term value.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,15 +42,11 @@ I care about backend architecture, frontend interaction, system performance and 
 
 ---
 
-## 🟡 Pacman Contribution Graph
+## 📈 Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/pacman-contribution-graph.svg">
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JackWenStack&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -69,11 +75,17 @@ I care about backend architecture, frontend interaction, system performance and 
 </a>
 
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://your-blog-url.com">
   <img src="https://img.shields.io/badge/Blog-XiaoQi%20Blog-F97316?style=for-the-badge&logo=rss&logoColor=white" />
 </a>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563EB,100:9333EA&height=120&section=footer" />
 
 </div>
