@@ -27,9 +27,70 @@
 <tr>
 <td width="800">
 
-```txt
+<p>
 Full Stack Developer focused on backend architecture, frontend experience and clean engineering.
+</p>
 
-I enjoy turning complex business logic into clear, reliable and maintainable systems.
-For me, code is not only about implementing features,
+<p>
+I enjoy turning complex business logic into clear, reliable and maintainable systems.<br/>
+For me, code is not only about implementing features,<br/>
 but also about solving real problems and creating long-term value.
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker,nginx,maven,vue,ts,js,html,css,vite,git,github,idea,vscode,linux,postman" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://github.com/JackWenStack">
+  <img src="https://img.shields.io/badge/GitHub-JackWenStack-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://your-blog-url.com">
+  <img src="https://img.shields.io/badge/Blog-XiaoQi%20Blog-F97316?style=for-the-badge&logo=rss&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=120&section=footer" />
+
+</div>
