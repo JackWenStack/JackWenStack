@@ -1,27 +1,28 @@
 <div align="center">
 
-# Jack Wen
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,50:7C3AED,100:06B6D4&height=220&section=header&text=Jack%20Wen&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-### Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Java+%2F+Vue+%2F+Redis+%2F+MySQL;Building+things+with+code;Keep+building%2C+keep+learning" />
 
-Java / Vue / Redis / MySQL
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Building+clean+and+reliable+software;Focused+on+backend+architecture;Crafting+better+frontend+experience" />
+<img src="https://img.shields.io/badge/Jack%20Wen-Full%20Stack%20Developer-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-Vue-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Redis-MySQL-F97316?style=for-the-badge" />
 
 </div>
 
 ---
 
-## About Me
+## 👾 About Me
 
-Full Stack Developer focused on backend architecture, frontend experience and clean engineering.
+Full Stack Developer focused on building clean, reliable and useful software.
 
-I enjoy turning complex business logic into clear, reliable and maintainable systems.  
-For me, code is not only about implementing features, but also about solving real problems and creating long-term value.
+I care about backend architecture, frontend interaction, system performance and real product experience.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -31,7 +32,21 @@ For me, code is not only about implementing features, but also about solving rea
 
 ---
 
-## Contribution Snake
+## 🟡 Pacman Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -45,7 +60,7 @@ For me, code is not only about implementing features, but also about solving rea
 
 ---
 
-## Contact
+## 📫 Contact
 
 <div align="center">
 
@@ -54,7 +69,7 @@ For me, code is not only about implementing features, but also about solving rea
 </a>
 
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://your-blog-url.com">
