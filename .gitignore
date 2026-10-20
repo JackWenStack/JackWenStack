@@ -1,0 +1,3 @@
+# Python runtime caches from local asset generation and validation.
+__pycache__/
+*.py[cod]
