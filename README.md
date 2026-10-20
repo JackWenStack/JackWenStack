@@ -22,13 +22,19 @@ I'm **Jack Wen**, a full-stack developer working with **Java & Vue**.<br>
 
 <br>
 
+<picture>
+  <source media="(max-width: 900px) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/contribution-signal-mobile-still.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/contribution-signal-still.svg">
+  <source media="(max-width: 900px)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/contribution-signal-mobile.svg">
+  <img src="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/contribution-signal.svg" width="100%" alt="Jack Wen 过去一年的真实 GitHub 贡献，以青柠扫描光带呈现；深浅表示每日贡献等级，每日自动更新。">
+</picture>
+
 <details>
-  <summary>A little motion, one contribution at a time.</summary>
+  <summary>播放贪吃蛇版本 · Play snake animation</summary>
   <br>
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-still.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub 贡献动画；减少动态效果时展示 2026-10-20 的静态快照。">
+    <img src="https://raw.githubusercontent.com/JackWenStack/JackWenStack/output/github-contribution-grid-snake.svg" width="100%" alt="点击展开后播放的贪吃蛇贡献动画。">
   </picture>
 </details>
 
