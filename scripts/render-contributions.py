@@ -7,8 +7,6 @@ from pathlib import Path
 import re
 from xml.etree import ElementTree as ET
 
-from profile_brand import mark
-
 NS = "{http://www.w3.org/2000/svg}"
 COLORS = ("#172233", "#29476f", "#3c6da8", "#639de7", "#a7ceff")
 
@@ -43,21 +41,18 @@ def label(x, y, value, size=18, color="#a4afc0", weight=400):
 
 
 def render(cells, updated, mobile=False, motion=True):
-    width, height = (640, 640) if mobile else (1200, 350)
+    width, height = (640, 520) if mobile else (1200, 232)
     columns = max(x for x, _, _ in cells) + 1
     split = (columns + 1) // 2
     step = 21 if mobile else 1104 / columns
     size = 15 if mobile else 15.5
     travel = split * step if mobile else columns * step
     grid_height = step * 6 + size
-    body = f'<rect width="{width}" height="{height}" rx="4" fill="#0b0f16"/>'
-    body += mark(32 if mobile else 48, 38, .12 if mobile else .15)
-    body += label(112 if mobile else 150, 66, "A year in motion.", 38 if mobile else 32, "#f2f5fa", 600)
-    body += label(32 if mobile else 150, 108 if mobile else 98, "Small steps. Lasting progress.", 27 if mobile else 18)
-    groups = [(0, split, 32, 171), (split, columns, 32, 377)] if mobile else [(0, columns, 48, 139)]
+    body = f'<rect width="{width}" height="{height}" rx="12" fill="#0b0f16"/>'
+    groups = [(0, split, 32, 72), (split, columns, 32, 265)] if mobile else [(0, columns, 48, 32)]
     if mobile:
-        body += label(32, 151, "EARLIER", 21)
-        body += label(32, 357, "RECENT", 21)
+        body += label(32, 50, "Earlier", 25)
+        body += label(32, 243, "Recent", 25)
     for index, (start, end, left, top) in enumerate(groups):
         base, lit = [], []
         for x, y, level in cells:
@@ -78,9 +73,9 @@ def render(cells, updated, mobile=False, motion=True):
             f'<rect x="-44" width="44" height="{grid_height}" fill="url(#glow)"/>'
             f'<rect x="-1" width="2" height="{grid_height}" fill="#6ca5ff" opacity=".8"/></g></g></g>'
         )
-    footer_y = 593 if mobile else 316
+    footer_y = 487 if mobile else 210
     body += label(32 if mobile else 48, footer_y, f"Updated {updated} UTC", 24 if mobile else 16)
-    legend_x, legend_y = (362, 551) if mobile else (980, 301)
+    legend_x, legend_y = (362, 445) if mobile else (980, 195)
     body += label(legend_x - 49, legend_y + 12, "Less", 20 if mobile else 14)
     for i, color in enumerate(COLORS):
         body += f'<rect x="{legend_x+i*22}" y="{legend_y}" width="15" height="15" rx="1.5" fill="{color}"/>'
